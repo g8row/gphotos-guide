@@ -5,7 +5,7 @@
 ## Step 0
 **If you have previously installed WSA, uninstall it**
 
-Magisk on WSA has a known bug with installing modules, they disappear after reboot. So the KernelSU version is preffered. Follow the [instructions](https://github.com/MustardChef/WSABuilds?tab=readme-ov-file#--installation) on installing WSA with KernelSU. When downloading from the releases, choose the file named `WSA_XXXX.X0000.X.0_XXXX_Release-Nightly-kernelsu-vX.X.X-MindTheGapps-XX.X-RemovedAmazon.7z`. If you can't find a KernelSU build in the latest release, try searching in the older releases.
+Magisk on WSA has a known bug with installing modules, they disappear after reboot. So the KernelSU version is preferred. Follow the [instructions](https://github.com/MustardChef/WSABuilds?tab=readme-ov-file#--installation) on installing WSA with KernelSU. When downloading from the releases, choose the file named `WSA_XXXX.X0000.X.0_XXXX_Release-Nightly-kernelsu-vX.X.X-MindTheGapps-XX.X-RemovedAmazon.7z`. If you can't find a KernelSU build in the latest release, try searching in the older releases.
 
 ## Step 1
 Make sure to enable the Local network access in the Windows Subsystem for Android app
