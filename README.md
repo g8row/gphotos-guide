@@ -47,7 +47,7 @@ Great! Now folders selected for backup in Google Photos will backup for free in 
 ## Step 7
 We need to figure out how to transfer photos to the WSA file system. This method i'll show you moves photos automatically and over the network, but can be rather buggy sometimes.
 
-Open the Play Store on your PC and install [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid&hl=en&gl=US). Go through the setup and allow all the permissions it requires. Also allow background usage. You will be at the folders view. There will be a folder there that we don't need. Press it and delete it with the button in the top right.
+Open the Play Store on your PC and install [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid&hl=en&gl=US). If it's not available on the Play Store, you can grab it from [Github Releases](https://github.com/syncthing/syncthing-android/releases) on the Syncthing repo and [F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/). Go through the setup and allow all the permissions it requires. Also allow background usage. You will be at the folders view. There will be a folder there that we don't need. Press it and delete it with the button in the top right.
 
 Next open the hamburger menu on the top right and press the "Show device ID" button.
 
