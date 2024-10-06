@@ -67,6 +67,13 @@ After a few seconds a folder should appear in your Folders view on your PC's Syn
 
 After the syncing is done, your photos may not initially appear in the Google Photos app. I manage to fix this by opening the file manager and going the the folder with the photos. Just opening it seems to refresh the file system and the appear in gphotos. After that just go to the On device folder in Google Photos, open the folder and enable Backup. Voila!
 
+Alternatively,
+
+You can enabled a shared folder using the WSA itself under Advanced Settings -> Experimental Features. This will allow you to locally transfer media between Windows and WSA without being bogged down by bugs. 
+
+Warning: When you are uploading a large number of files at the same time the backup process has a tendency to get stuck, you can expedite the process by restarting WSA and opening google photos again. However this doesn't always work so be ready for a long wait time to upload.
+
+![image](https://github.com/user-attachments/assets/602ca48c-5444-4c96-91be-88e3eca5bf53)
 
 
  
