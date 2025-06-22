@@ -1,5 +1,7 @@
 # Unlimited Google Photos storage with Windows 10/11
 
+## This guide was written before the [ReVanced](https://github.com/revanced/revanced-manager) patch for Google Photos came out, i suggest using it as a sideapp on your phone.
+
 ## [Requirements](https://github.com/MustardChef/WSABuilds?tab=readme-ov-file#requirements)
 
 ## Step 0
